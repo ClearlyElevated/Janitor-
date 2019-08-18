@@ -1,5 +1,3 @@
-# Janitor Discord Bot
+## Janitor Discord Bot
 
----
-
-Something will prob show up here soon!
+> Something will prob show up here soon!
